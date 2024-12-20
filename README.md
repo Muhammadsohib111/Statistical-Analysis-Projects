@@ -27,3 +27,22 @@ A collection of statistical analysis projects demonstrating hypothesis testing, 
 6. **06_Multiple_Regression_Analysis.ipynb**
    - Overview: Demonstrates multiple regression analysis for modeling relationships.
    - Key takeaway: Predicting outcomes based on multiple variables.
+
+
+Technologies Used
+
+The following tools and libraries were utilized in these projects:
+	•	Programming Language: Python
+	•	Libraries:
+	•	Data Manipulation: Pandas, NumPy
+	•	Data Visualization: Matplotlib, Seaborn
+	•	Statistical Analysis: SciPy, Pingouin, Statsmodels
+	•	Machine Learning/Modeling: Scikit-learn (для регрессии)
+	•	Environment: Jupyter Notebook
+
+ Contact
+
+If you have any questions or would like to discuss my projects, feel free to contact me:
+	•	Email: muhammadsohib6668@gmail.com
+	•	LinkedIn: Muhammadsohib Qodirov
+	•	GitHub: Muhammadsohib111v
